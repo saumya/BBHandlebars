@@ -1,6 +1,6 @@
 Backbone with Handlebars
 ============
-A backbone application using Handlebars template engine.
+#### A backbone application using Handlebars template engine.
 
 * [BackboneJS](http://backbonejs.org/)
 * [HandlebarsJS](http://handlebarsjs.com/)
@@ -12,5 +12,5 @@ A backbone application using Handlebars template engine.
 * [jQuery mobile](http://jquerymobile.com/)
 * [Cordova](http://cordova.apache.org/) (also known as [PhoneGap](http://phonegap.com/))
 
-#### Reference
+#### Reference for this markup
 [github markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
